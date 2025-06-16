@@ -13,6 +13,8 @@
 
 [REC_DS using C_Week_1_COD_Question 7](Week%201/07.pdf)
 
+[REC_DS using C_Week_1_MCQ](Week%201/mcq.pdf)
+
 
 ### Week 2
 [REC_DS using C_Week_2_COD_Question 1](Week%202/01.pdf)
@@ -24,6 +26,8 @@
 [REC_DS using C_Week_2_COD_Question 4](Week%202/04.pdf)
 
 [REC_DS using C_Week_2_COD_Question 5](Week%202/05.pdf)
+
+[REC_DS using C_Week_2_MCQ](Week%202/mcq.pdf)
 
 
 ### Week 3
@@ -37,6 +41,8 @@
 
 [REC_DS using C_Week_3_COD_Question 5](Week%203/05.pdf)
 
+[REC_DS using C_Week_3_MCQ](Week%203/mcq.pdf)
+
 
 ### Week 4
 [REC_DS using C_Week_4_COD_Question 1](Week%204/01.pdf)
@@ -48,6 +54,8 @@
 [REC_DS using C_Week_4_COD_Question 4](Week%204/04.pdf)
 
 [REC_DS using C_Week_4_COD_Question 5](Week%204/05.pdf)
+
+[REC_DS using C_Week_4_MCQ](Week%204/mcq.pdf)
 
 
 ### Week 5
@@ -61,6 +69,8 @@
 
 [REC_DS using C_Week_5_COD_Question 5](Week%205/05.pdf)
 
+[REC_DS using C_Week_5_MCQ](Week%205/mcq.pdf)
+
 
 ### Week 6
 [REC_DS using C_Week_6_COD_Question 1](Week%206/01.pdf)
@@ -73,6 +83,8 @@
 
 [REC_DS using C_Week_6_COD_Question 5](Week%206/05.pdf)
 
+[REC_DS using C_Week_6_MCQ](Week%206/mcq.pdf)
+
 
 ### Week 7
 [REC_DS using C_Week_7_COD_Question 1](Week%207/01.pdf)
@@ -84,4 +96,6 @@
 [REC_DS using C_Week_7_COD_Question 4](Week%207/04.pdf)
 
 [REC_DS using C_Week_7_COD_Question 5](Week%207/05.pdf)
+
+[REC_DS using C_Week_7_MCQ](Week%207/mcq.pdf)
 
